@@ -1,4 +1,4 @@
-# LLMs FineTuning
+# LLMs FineTuning open source model
 **FineTune LLMs on different Datasets with Different Tasks using different techniques such as `supervised fintuning` `Proximal policy optimization`, `direct preference optimization` and `Group Relative plicy optimization`.**
 
 to run any of these models all you need to do is cloning the repo locally and just run the files.
